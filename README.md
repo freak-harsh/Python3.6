@@ -2,8 +2,7 @@
 
 
 This is python repository to help you learn python.<br>
-For more refference go to
-                          https://python.org
+<h4>For more refference go to https://python.org</hr>
 
 
 ## 1.Area of triangle:
