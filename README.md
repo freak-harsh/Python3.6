@@ -4,6 +4,8 @@
 this is python repository to help you <br>
 learn python.
 
-## subheader
+## 1.Area of triangle:
 
-this is the subheader.
+This finds area of triangle <br>
+
+     area_of_triangle = 1/2*Length*Breadth 
