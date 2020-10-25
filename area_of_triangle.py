@@ -2,6 +2,6 @@
 of triangle '''
 'python:3'
 
-def area(length, breadth):
+def area(base, height):
     area_of_triangle = 1/2*base*height
     return
