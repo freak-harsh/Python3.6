@@ -4,6 +4,6 @@ of triangle '''
 
 def area(base, height):
 
-    area_of_triangle = 1/2*base*height
-    
+    area_of_triangle = 1/2*base*height   
+
     return
