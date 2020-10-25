@@ -3,3 +3,4 @@ of triangle '''
 'python:3'
 
 def area():
+    return
