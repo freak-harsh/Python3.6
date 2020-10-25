@@ -1,8 +1,9 @@
 # PYTHON
 
 
-This is python repository to help you <br>
-learn python.
+This is python repository to help you learn python.
+for more refference go to
+                          https://python.org
 
 
 ## 1.Area of triangle:
