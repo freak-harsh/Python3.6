@@ -1,8 +1,8 @@
 # PYTHON
 
 
-This is python repository to help you learn python.
-for more refference go to
+This is python repository to help you learn python.<br>
+For more refference go to
                           https://python.org
 
 
