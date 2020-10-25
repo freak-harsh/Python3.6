@@ -1,10 +1,12 @@
 # PYTHON
 
 
-this is python repository to help you <br>
+This is python repository to help you <br>
 learn python.
 
+
 ## 1.Area of triangle:
+
 
 This finds area of triangle <br>
 
