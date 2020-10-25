@@ -6,4 +6,4 @@ def area(base, height):
 
     area_of_triangle = 1/2*base*height   
 
-    return
+    return area_of_triangle
