@@ -14,7 +14,6 @@ This finds area of triangle <br>
 
 ## Project colder:
 
-      1. Tic-tac-toe;
-         
-         
+      1. Tic-tac-toe;   
+
                
